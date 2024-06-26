@@ -1,0 +1,8 @@
+
+        // beer colors map
+        val beerBrands = mapOf(
+            "Light" to listOf("Pilsner Urquell", "Budweiser", "Heineken", "Miller Lite"),
+            "Amber" to listOf("Alaskan Amber", "Stone Levitation Ale", "Bell’s Amber Ale", "at Tire Amber Ale"),
+            "Brown" to listOf("Newcastle Brown Ale", "Samuel Smith's Nut Brown Ale", "Brooklyn Brown Ale", "Dogfish Head Indian Brown Ale"),
+            "Dark" to listOf("Guinness Draught", "Samuel Adams Boston Lager", "Sierra Nevada Porter", "Founders Porter")
+        )
